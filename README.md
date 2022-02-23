@@ -1,2 +1,2 @@
 # general_template
-General template for any Projet
+General template for any Projet can be used
